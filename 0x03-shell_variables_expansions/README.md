@@ -1,1 +1,1 @@
-alias script
+Hello you script
