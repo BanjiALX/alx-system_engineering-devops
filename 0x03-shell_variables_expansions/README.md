@@ -1,1 +1,1 @@
-Hello you script
+PATH
